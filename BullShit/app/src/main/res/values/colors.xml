@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="main_color">#353535</color>
+    <color name="tab_color_normal">#353535</color>
+    <color name="tab_color_press">#EDCE9C</color>
+</resources>

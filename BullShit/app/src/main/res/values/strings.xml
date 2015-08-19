@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">瞎扯</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--主界面-->
+    <string name="string_tab_home">首页</string>
+    <string name="string_tab_discover">发现</string>
+    <string name="string_tab_add">添加</string>
+    <string name="string_tab_message">消息</string>
+    <string name="string_tab_account">我的</string>
+</resources>
