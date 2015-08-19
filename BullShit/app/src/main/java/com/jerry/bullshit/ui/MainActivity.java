@@ -60,7 +60,8 @@ public class MainActivity extends AppCompatActivity {
         FragmentTransaction ft = fManger.beginTransaction();
 
         // 隐藏对应的fragment界面
-        if (checkedId == R.id.tab_home || checkedId == R.id.tab_message || checkedId == R.id.tab_account){
+        if (checkedId == R.id.tab_home || checkedId == R.id.tab_message
+                || checkedId == R.id.tab_account){
             if (null != homeFragment && !homeFragment.isHidden()) {
                 ft.hide(homeFragment);
             }
